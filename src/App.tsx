@@ -34,7 +34,7 @@ const App: React.FC = () => {
             <Zap className="w-5 h-5 fill-current" />
           </div>
           <span className="font-serif text-xl font-bold tracking-tight text-[#1E1E1E] uppercase">
-            Algo<span className="text-[#FF5A00]">Viz</span>
+            Algo<span className="text-[#FF5A00]">Bench</span>
           </span>
         </div>
 
